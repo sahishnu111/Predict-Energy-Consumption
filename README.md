@@ -1,4 +1,5 @@
 # Predicting Daily Power Consumption with Machine Learning
+![](imagegeneratedbyai.png)
 
 This project explores how to use machine learning techniques to predict daily power consumption based on time-based features such as the day of the week, month, and season. The aim is to understand consumption patterns and improve forecasting accuracy — something that can be useful for energy companies, infrastructure planning, and sustainability efforts.
 
